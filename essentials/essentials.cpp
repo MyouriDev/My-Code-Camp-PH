@@ -19,7 +19,7 @@ int main() {
     // informations such as numbers, and texts
     // Formula #1: *type of variable* *name of variable* = information;"
     // Formula #2: *type of variable* *name of variable;*
-    //  Type = Data Types (int, float, char, string)
+    //  Type = Data Types (int, float, double, char, string)
     int  whole = 8;     //int can only take whole numbers!
     float point = 8.2;  //float can take both whole and decimal numbers!
     char letter = 'a';  //char can only take a letter, a number, or a punctuation only!
@@ -39,7 +39,7 @@ int main() {
     //  Operators: Arithemtic, Relation/Comparison, Logical, Assignment
 
     //  Arithmetic: +, -, *, /, % and many more
-    //  Relation/Comparison: ==, >, <, >=, !=
+    //  Relation/Comparison: ==, >, <, >=, <=, !=
     //  Logical: ! (not), || (or), && (and)
     //  Assignment: =, ++, --
 
@@ -49,7 +49,7 @@ int main() {
 
     //  Data Input
     //  - programming concept which gather an information from the user
-    //  Step 1: Make sure that the variable to be used is alread made
+    //  Step 1: Make sure that the variable to be used is already made
     //  Optional Step: Make a prompt (asking the user and making the user answer)
     //  Step 2: Use cin >> *name of the variable*
 
